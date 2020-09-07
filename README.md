@@ -1,4 +1,4 @@
-Frontend Mentor CHALLENGE | Easybank
+Frontend Mentor CHALLENGE | Easybank Landing Page
 
 HTML, CSS and JS
 
